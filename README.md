@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem Vindo ao meu peril! 👋
 
-<!--
-**Cainhxw/Cainhxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Caio Lopes!** e sou um estudante do alura.
+- Estou me desenvolvendo na linguagem _JavaScript_
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-Here are some ideas to get you started:
+## Fique à vontade para entrar em contato comigo!
+  
+  📫00001092743418sp@al.educacao.sp.gov.br
+  
+  @cainhxw
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://media1.tenor.com/m/cm2OEA1FOPkAAAAC/dinosaur-dancing.gif)
